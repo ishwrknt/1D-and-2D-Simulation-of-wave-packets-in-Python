@@ -1,4 +1,4 @@
-1D and 2D Simulation of Wave Packets in Python
+1D and 2D Simulation of Wave-packets in Python
 By Dr. O.S.K.S. Sastri
 Professor, Department of Physics and Astronomical Sciences
 Central University of Himachal Pradesh
